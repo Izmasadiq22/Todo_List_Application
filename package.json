@@ -1,0 +1,25 @@
+{
+  "name": "code_wit_izma17_todolist_application",
+  "version": "2.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": "index.js",
+  "publishconfig": {
+    "access": "public"
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
